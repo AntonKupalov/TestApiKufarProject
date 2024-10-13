@@ -1,0 +1,17 @@
+/Users/antonkupalov/Documents/GitHub/TestApiKufar/TestApiKufar/bin/Debug/net7.0/TestApiKufar
+/Users/antonkupalov/Documents/GitHub/TestApiKufar/TestApiKufar/bin/Debug/net7.0/TestApiKufar.deps.json
+/Users/antonkupalov/Documents/GitHub/TestApiKufar/TestApiKufar/bin/Debug/net7.0/TestApiKufar.runtimeconfig.json
+/Users/antonkupalov/Documents/GitHub/TestApiKufar/TestApiKufar/bin/Debug/net7.0/TestApiKufar.dll
+/Users/antonkupalov/Documents/GitHub/TestApiKufar/TestApiKufar/bin/Debug/net7.0/TestApiKufar.pdb
+/Users/antonkupalov/Documents/GitHub/TestApiKufar/TestApiKufar/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/antonkupalov/Documents/GitHub/TestApiKufar/TestApiKufar/obj/Debug/net7.0/TestApiKufar.csproj.AssemblyReference.cache
+/Users/antonkupalov/Documents/GitHub/TestApiKufar/TestApiKufar/obj/Debug/net7.0/TestApiKufar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antonkupalov/Documents/GitHub/TestApiKufar/TestApiKufar/obj/Debug/net7.0/TestApiKufar.AssemblyInfoInputs.cache
+/Users/antonkupalov/Documents/GitHub/TestApiKufar/TestApiKufar/obj/Debug/net7.0/TestApiKufar.AssemblyInfo.cs
+/Users/antonkupalov/Documents/GitHub/TestApiKufar/TestApiKufar/obj/Debug/net7.0/TestApiKufar.csproj.CoreCompileInputs.cache
+/Users/antonkupalov/Documents/GitHub/TestApiKufar/TestApiKufar/obj/Debug/net7.0/TestApiKufar.csproj.CopyComplete
+/Users/antonkupalov/Documents/GitHub/TestApiKufar/TestApiKufar/obj/Debug/net7.0/TestApiKufar.dll
+/Users/antonkupalov/Documents/GitHub/TestApiKufar/TestApiKufar/obj/Debug/net7.0/refint/TestApiKufar.dll
+/Users/antonkupalov/Documents/GitHub/TestApiKufar/TestApiKufar/obj/Debug/net7.0/TestApiKufar.pdb
+/Users/antonkupalov/Documents/GitHub/TestApiKufar/TestApiKufar/obj/Debug/net7.0/TestApiKufar.genruntimeconfig.cache
+/Users/antonkupalov/Documents/GitHub/TestApiKufar/TestApiKufar/obj/Debug/net7.0/ref/TestApiKufar.dll
